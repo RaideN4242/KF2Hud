@@ -8,7 +8,7 @@ RUS:
 
 Исправил баг, когда в чате дублировался ник игрока. Спасибо Essense.
 
-Добавил рус локализацию.
+Добавил рус локализацию. Спасибо HeKuT.
 
 ENG: 
 In ServerPerksMut.uc, change the hud in the line SRHudType=class'KF2HUD'
