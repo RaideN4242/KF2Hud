@@ -16,4 +16,5 @@ If there is a custom boss that is not extends from ZombieBoss, then you need to 
 I fixed chat playernames. old code have a bug - double playername
 
 Original code by https://github.com/XpecV52/XpecKFMuts
+
 Textures and sounds by https://github.com/InsultingPros/KF2HUD
