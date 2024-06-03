@@ -12,6 +12,8 @@ RUS:
 
 Добавил рус локализацию. Спасибо HekuT.
 
+Если нет ника в чате, то возьми код из message.txt и замени эту функцию в KF2HUD.uc
+
 ENG: 
 In ServerPerksMut.uc, change the hud in the line SRHudType=class'KF2HUD'
 
