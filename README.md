@@ -2,7 +2,7 @@
 KF2Hud for ServerPerks 7.5
 
 RUS:
-В ServerPerksMut.uc поменять худ в строке SRHudType=class'KF2HUD'.
+В ServerPerksMut.uc поменять худ в строке SRHudType=class'KF2HUD'
 
 Изменить название пакета ServerPerksDZ на свой!!!
 
