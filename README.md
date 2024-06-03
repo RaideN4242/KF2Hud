@@ -1,4 +1,4 @@
-# KF2Hud
+# KF2Hud For Killing Floor 1
 KF2Hud for ServerPerks 7.5
 
 RUS:
