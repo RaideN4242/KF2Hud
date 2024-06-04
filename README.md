@@ -12,6 +12,8 @@ RUS:
 
 Добавил рус локализацию. Спасибо HekuT.
 
+Худ был адаптирован для совместимости с мутатором AreYouVip: https://github.com/Bleeding-Action-Man/AreYouVIP
+
 Если нет ника в чате, то возьми код из message.txt и замени эту функцию в KF2HUD.uc
 
 ENG: 
