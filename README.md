@@ -1,6 +1,8 @@
 # KF2Hud For Killing Floor 1
 KF2Hud for ServerPerks 7.5
 
+For Server [Dead Zone]: 109.195.103.47:9507
+
 RUS:
 В ServerPerksMut.uc поменять худ в строке SRHudType=class'KF2HUD'
 
