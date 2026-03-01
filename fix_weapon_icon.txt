@@ -1,0 +1,18 @@
+	// Возвращаем возможность видеть прозрачный фон в инвентаре
+	// -- FIX INVENTORY WEAPON ICON -- //
+	if ( PlayerOwner != None
+		&& PlayerOwner.Pawn != None
+		&& KFWeapon(PlayerOwner.Pawn.Weapon) != None )
+	{
+		TempMaterial = KFWeapon(PlayerOwner.Pawn.Weapon).HudImage;
+
+		if ( TempMaterial != None )
+
+			{
+				// Восстанавливаем отрисовку альфа-канала инвентарных иконок оружия
+				C.Style = ERenderStyle.STY_Alpha;
+				C.SetDrawColor(255,255,255,255);
+
+				C.DrawTile(TempMaterial, TempSize, TempSize, 0, 0, TempMaterial.MaterialUSize(), TempMaterial.MaterialVSize());
+			}
+	}
